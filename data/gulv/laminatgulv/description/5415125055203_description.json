@@ -1,0 +1,60 @@
+{
+    "ean": "5415125055203",
+    "id": "46897162",
+    "name": "Laminatgulv L0323 Moderne Grå Eik plank",
+    "brandName": "Pergo",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 2.522
+        },
+        "grossWeight": 20.9,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.221,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.057,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 2.071,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24376460",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24376459",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24376528",
+            "type": "ADDITIONAL_1"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

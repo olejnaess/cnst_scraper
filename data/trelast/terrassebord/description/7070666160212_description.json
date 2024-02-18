@@ -1,0 +1,73 @@
+{
+    "ean": "7070666160212",
+    "id": "48242925",
+    "name": "FURU 28X120 CU IMP TØRK G GRÅ TERRA",
+    "brandName": "HASÅS",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 1.878,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.12,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.028,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31616926",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31254129",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31254130",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31616924",
+            "type": "ADDITIONAL_2"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31616925",
+            "type": "ADDITIONAL_3"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601814",
+            "name": "Impregnert terrassebord",
+            "url": "trelast/terrassebord/impregnert-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

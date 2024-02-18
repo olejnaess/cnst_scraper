@@ -1,0 +1,57 @@
+{
+    "ean": "7040431893089",
+    "id": "45174935",
+    "name": "Terrassebord Furu 26x115 Varmebehandlet Glatt",
+    "brandName": "Moelven",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 1.3,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.115,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.026,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24355736",
+            "type": "PRODUCT"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601810",
+            "name": "Termo terrassebord",
+            "url": "trelast/terrassebord/termo-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

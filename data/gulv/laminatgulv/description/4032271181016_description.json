@@ -1,0 +1,56 @@
+{
+    "ean": "4032271181016",
+    "id": "55065322",
+    "name": "LAMINAT MAMMUT MGC 3081 12MM",
+    "brandName": "KRONOTEX",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 1.387
+        },
+        "grossWeight": 14.3,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.21,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.053,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1.86,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_29876493",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24409803",
+            "type": "ADDITIONAL"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

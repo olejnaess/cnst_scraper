@@ -1,0 +1,61 @@
+{
+    "ean": "4048533034112",
+    "id": "50983713",
+    "name": "KLIPS MEGAWOOD SORT STÅL 50STK",
+    "brandName": "EASYDECK",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 1
+        },
+        "grossWeight": 0.125,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.085,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 0.13,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23102136",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23102117",
+            "type": "ADDITIONAL"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601816",
+            "name": "Kompositt terrassebord",
+            "url": "trelast/terrassebord/kompositt-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

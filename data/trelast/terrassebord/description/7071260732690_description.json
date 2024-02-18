@@ -1,0 +1,65 @@
+{
+    "ean": "7071260732690",
+    "id": "51766566",
+    "name": "KOMP EASYDECK DOLOMIT 16X193X4000",
+    "brandName": "EASYDECK",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 3.5,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.193,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.016,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31191394",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23102117",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24912671",
+            "type": "ADDITIONAL_1"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601816",
+            "name": "Kompositt terrassebord",
+            "url": "trelast/terrassebord/kompositt-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

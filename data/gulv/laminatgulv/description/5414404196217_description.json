@@ -1,0 +1,52 @@
+{
+    "ean": "5414404196217",
+    "id": "54374021",
+    "name": "LAMINATG CHATEAU MERBAU BRUN A",
+    "brandName": "BerryAlloc",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 1.016064
+        },
+        "grossWeight": 7.57,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.097,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.186,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 0.523,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23182088",
+            "type": "PRODUCT"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

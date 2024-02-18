@@ -1,0 +1,64 @@
+{
+    "ean": "7052870173981",
+    "id": "57184445",
+    "name": "Laminatgulv Grand Avenue Royal Mile - BerrryAlloc",
+    "brandName": "BerryAlloc",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 2.3232
+        },
+        "grossWeight": 23.8,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.265,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.053,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 2.449,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_25143777",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23169796",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23208269",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_26502237",
+            "type": "ADDITIONAL_2"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

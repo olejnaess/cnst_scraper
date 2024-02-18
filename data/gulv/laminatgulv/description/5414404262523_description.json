@@ -1,0 +1,76 @@
+{
+    "ean": "5414404262523",
+    "id": "60078516",
+    "name": "LAMINATG OCEAN8 XL BLOOM SAND NATUR",
+    "brandName": "BerryAlloc",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 2.9469
+        },
+        "grossWeight": 20.7,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.255,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.045,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 2.055,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_28801718",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31213823",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31213824",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31213825",
+            "type": "ADDITIONAL_2"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31213826",
+            "type": "ADDITIONAL_3"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31213827",
+            "type": "ADDITIONAL_4"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_31213828",
+            "type": "ADDITIONAL_5"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

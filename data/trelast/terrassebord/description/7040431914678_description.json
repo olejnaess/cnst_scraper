@@ -1,0 +1,61 @@
+{
+    "ean": "7040431914678",
+    "id": "50751816",
+    "name": "TERMOASK 20X132 TERRASSE VARMEBEH",
+    "brandName": "Moelven",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 1.26,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.132,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.02,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_30803180",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24356120",
+            "type": "ADDITIONAL"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601810",
+            "name": "Termo terrassebord",
+            "url": "trelast/terrassebord/termo-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

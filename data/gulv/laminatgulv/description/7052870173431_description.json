@@ -1,0 +1,68 @@
+{
+    "ean": "7052870173431",
+    "id": "57755615",
+    "name": "Laminatgulv 1-stav  Grand Avenue Leninsky Prospekt - BerryAlloc",
+    "brandName": "BerryAlloc",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 2.3232
+        },
+        "grossWeight": 23.8,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.265,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.053,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 2.449,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_30998155",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23209775",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24893090",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_26418499",
+            "type": "ADDITIONAL_2"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_26460871",
+            "type": "ADDITIONAL_3"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

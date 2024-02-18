@@ -1,0 +1,61 @@
+{
+    "ean": "7071536056550",
+    "id": "53659998",
+    "name": "Terrassebord Furu 28X120 Concise  Grå Royal - Møreroyal",
+    "brandName": "MøreRoyal®",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 1.848,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.12,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.028,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24409535",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24409534",
+            "type": "ADDITIONAL"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601807",
+            "name": "Royalimpregnert terrassebord",
+            "url": "trelast/terrassebord/royalimpregnert-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

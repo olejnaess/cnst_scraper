@@ -1,0 +1,60 @@
+{
+    "ean": "5414404198525",
+    "id": "54374233",
+    "name": "Laminat glorious XL Jazz XXL lys grå - Alloc",
+    "brandName": "BerryAlloc",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 2.4557
+        },
+        "grossWeight": 20.2,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.253,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.043,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 2.054,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23182902",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23182890",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24892880",
+            "type": "ADDITIONAL_1"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

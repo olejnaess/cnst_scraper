@@ -1,0 +1,75 @@
+{
+    "ean": "7070276047569",
+    "id": "54185161",
+    "name": "Terrassebord 28x120 Furu Cuimp Kl1",
+    "brandName": "Bergene Holm",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 1.878,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.12,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.028,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_25139653",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_25139654",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_25139655",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_25139656",
+            "type": "ADDITIONAL_2"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601814",
+            "name": "Impregnert terrassebord",
+            "url": "trelast/terrassebord/impregnert-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": [
+        "7392378117552",
+        "7040437512038",
+        "7330034598840",
+        "7340022701275",
+        "7070666104582"
+    ]
+}

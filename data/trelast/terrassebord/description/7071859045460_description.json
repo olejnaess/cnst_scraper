@@ -1,0 +1,85 @@
+{
+    "ean": "7071859045460",
+    "id": "51998501",
+    "name": "Terrassebord Furu 28x120 Royal Fjellgrå - \tAlvdal Royal",
+    "brandName": "Alvdal Royal",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 1.85,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.12,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.028,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23159148",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23123712",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891972",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891974",
+            "type": "ADDITIONAL_2"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891975",
+            "type": "ADDITIONAL_3"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891976",
+            "type": "ADDITIONAL_4"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891977",
+            "type": "ADDITIONAL_5"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_27445734",
+            "type": "ADDITIONAL_6"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601807",
+            "name": "Royalimpregnert terrassebord",
+            "url": "trelast/terrassebord/royalimpregnert-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

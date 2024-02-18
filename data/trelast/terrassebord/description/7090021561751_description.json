@@ -1,0 +1,129 @@
+{
+    "ean": "7090021561751",
+    "id": "47156692",
+    "name": "RADI 22X142 GLATT M/SPOR KEBONY",
+    "brandName": "Kebony Clear RAP",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 2.343,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.142,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.022,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24307709",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24307708",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24307712",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24307737",
+            "type": "ADDITIONAL_2"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907443",
+            "type": "ADDITIONAL_3"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907444",
+            "type": "ADDITIONAL_4"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907446",
+            "type": "ADDITIONAL_5"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907448",
+            "type": "ADDITIONAL_6"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907449",
+            "type": "ADDITIONAL_7"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907450",
+            "type": "ADDITIONAL_8"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907451",
+            "type": "ADDITIONAL_9"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907452",
+            "type": "ADDITIONAL_10"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907453",
+            "type": "ADDITIONAL_11"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907459",
+            "type": "ADDITIONAL_12"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907460",
+            "type": "ADDITIONAL_13"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907461",
+            "type": "ADDITIONAL_14"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24993265",
+            "type": "ADDITIONAL_15"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24993267",
+            "type": "ADDITIONAL_16"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24993268",
+            "type": "ADDITIONAL_17"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601812",
+            "name": "Kebony terrassebord",
+            "url": "trelast/terrassebord/kebony-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

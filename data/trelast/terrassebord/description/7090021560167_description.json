@@ -1,0 +1,81 @@
+{
+    "ean": "7090021560167",
+    "id": "40110462",
+    "name": "FURU 34X145 BRYGGEDEKKE",
+    "brandName": "Kebony Character",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 2.958,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.145,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.034,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24307744",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24307700",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24307743",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907465",
+            "type": "ADDITIONAL_2"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907466",
+            "type": "ADDITIONAL_3"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907467",
+            "type": "ADDITIONAL_4"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24907468",
+            "type": "ADDITIONAL_5"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601812",
+            "name": "Kebony terrassebord",
+            "url": "trelast/terrassebord/kebony-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}

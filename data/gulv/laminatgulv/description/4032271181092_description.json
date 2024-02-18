@@ -1,0 +1,56 @@
+{
+    "ean": "4032271181092",
+    "id": "55065413",
+    "name": "LAMINAT MAMMUT MGC 4728 12MM",
+    "brandName": "KRONOTEX",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 1.387
+        },
+        "grossWeight": 14.3,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.21,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.053,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1.86,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_29876472",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24409765",
+            "type": "ADDITIONAL"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

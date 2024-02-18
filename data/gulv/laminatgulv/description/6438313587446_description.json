@@ -1,0 +1,60 @@
+{
+    "ean": "6438313587446",
+    "id": "58019935",
+    "name": "Hybridgulv Skatepark - Cello",
+    "brandName": "Cello",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 2.28
+        },
+        "grossWeight": 17.16,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.34,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.089,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 0.651,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23334937",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_JPEG_28613875",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_JPEG_28613876",
+            "type": "ADDITIONAL_1"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

@@ -1,0 +1,52 @@
+{
+    "ean": "6438313587422",
+    "id": "58019916",
+    "name": "Hybridgulv Brecon Slate - Cello",
+    "brandName": "Cello",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 2.28
+        },
+        "grossWeight": 17.16,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.34,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.089,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 0.651,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23334930",
+            "type": "PRODUCT"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

@@ -1,0 +1,56 @@
+{
+    "ean": "5400818367619",
+    "id": "55157355",
+    "name": "LAMINATG L0241 ELEGANT OAK 3-STRIP",
+    "brandName": "Pergo",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 1.596
+        },
+        "grossWeight": 12.02,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.21,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.058,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1.22,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24379722",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24379721",
+            "type": "ADDITIONAL"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

@@ -1,0 +1,56 @@
+{
+    "ean": "6438313631538",
+    "id": "58020366",
+    "name": "Laminatgulv Nordic grå 8mm - Goodiy",
+    "brandName": "GOODIY",
+    "measurements": {
+        "netContent": {
+            "unit": "PAK",
+            "value": 1.995
+        },
+        "grossWeight": 14.884,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.051,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.006,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 0.051,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23336126",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23336108",
+            "type": "ADDITIONAL"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComProductLvl_3224059",
+            "name": "Laminatgulv",
+            "url": "gulv/laminatgulv"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_3223876",
+            "name": "Gulv",
+            "url": "gulv"
+        }
+    ],
+    "relatedEans": []
+}

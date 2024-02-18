@@ -1,0 +1,97 @@
+{
+    "ean": "7071859005433",
+    "id": "41340282",
+    "name": "FURU 28X120 CU-IMP TERRBORD 3,9M",
+    "brandName": "Alvdal Impregnert",
+    "measurements": {
+        "netContent": {
+            "unit": "LM",
+            "value": 1
+        },
+        "grossWeight": 1.848,
+        "grossDimensions": {
+            "width": {
+                "unit": "m",
+                "value": 0.12,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "height": {
+                "unit": "m",
+                "value": 0.028,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            },
+            "length": {
+                "unit": "m",
+                "value": 1,
+                "unitCode": "MT",
+                "unitLocalized": "m"
+            }
+        }
+    },
+    "images": [
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23135817",
+            "type": "PRODUCT"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23135805",
+            "type": "ADDITIONAL"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891487",
+            "type": "ADDITIONAL_1"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891489",
+            "type": "ADDITIONAL_2"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891490",
+            "type": "ADDITIONAL_3"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891491",
+            "type": "ADDITIONAL_4"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891492",
+            "type": "ADDITIONAL_5"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891493",
+            "type": "ADDITIONAL_6"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891494",
+            "type": "ADDITIONAL_7"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891495",
+            "type": "ADDITIONAL_8"
+        },
+        {
+            "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_24891496",
+            "type": "ADDITIONAL_9"
+        }
+    ],
+    "categories": [
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl3_31601814",
+            "name": "Impregnert terrassebord",
+            "url": "trelast/terrassebord/impregnert-terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl2_31601804",
+            "name": "Terrassebord",
+            "url": "trelast/terrassebord"
+        },
+        {
+            "salesCategoryIdentifier": "CLS_BM_eComLvl1_31601740",
+            "name": "Trelast",
+            "url": "trelast"
+        }
+    ],
+    "relatedEans": []
+}
