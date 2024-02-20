@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 2,
+            "quantity": 1,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -93,7 +93,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 45,
+            "quantity": 24,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -139,12 +139,12 @@
         },
         {
             "availability": {
-                "status": "AVAILABLE"
+                "status": "UNAVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 19,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -212,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 30,
+            "quantity": 16,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -229,7 +229,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 44,
+            "quantity": 23,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -246,7 +246,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 27,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

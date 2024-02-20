@@ -25,7 +25,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 5,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -42,7 +42,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 23,
+            "quantity": 10,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

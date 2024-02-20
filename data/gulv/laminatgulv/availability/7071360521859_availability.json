@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 56,
+            "quantity": 19,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -42,7 +42,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 25,
+            "quantity": 8,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -76,7 +76,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 51,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -110,7 +110,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 2,
+            "quantity": 1,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -144,7 +144,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 23,
+            "quantity": 8,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -161,7 +161,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 14,
+            "quantity": 5,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -178,7 +178,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 47,
+            "quantity": 16,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -212,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 52,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -246,7 +246,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 6,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -263,7 +263,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 188,
+            "quantity": 64,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -314,7 +314,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 33,
+            "quantity": 11,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -331,7 +331,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 23,
+            "quantity": 8,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -348,7 +348,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 78,
+            "quantity": 26,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -365,7 +365,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 22,
+            "quantity": 7,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -382,7 +382,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 65,
+            "quantity": 22,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -399,7 +399,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 23,
+            "quantity": 7,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -416,7 +416,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 9,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -450,7 +450,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 29,
+            "quantity": 9,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -467,7 +467,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 9,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -501,7 +501,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 19,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -518,7 +518,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 51,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -552,7 +552,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 36,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -569,7 +569,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 42,
+            "quantity": 14,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -586,7 +586,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 17,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -603,7 +603,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 31,
+            "quantity": 10,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -620,7 +620,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 39,
+            "quantity": 13,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -637,7 +637,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 5,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -654,7 +654,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 13,
+            "quantity": 4,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -671,7 +671,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 55,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -688,7 +688,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 35,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -705,7 +705,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 29,
+            "quantity": 9,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -722,7 +722,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 63,
+            "quantity": 21,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -739,7 +739,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 44,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -756,7 +756,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 67,
+            "quantity": 23,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -773,7 +773,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 92,
+            "quantity": 31,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -790,7 +790,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 27,
+            "quantity": 9,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -807,7 +807,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 8,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -841,7 +841,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 51,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -858,7 +858,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 11,
+            "quantity": 4,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -875,7 +875,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 10,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -892,7 +892,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 47,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -909,7 +909,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 31,
+            "quantity": 10,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -926,7 +926,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 4,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -960,7 +960,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 38,
+            "quantity": 13,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -1062,7 +1062,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 59,
+            "quantity": 20,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -1096,7 +1096,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 50,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -1133,7 +1133,7 @@
                 "id": "7080001198909",
                 "type": "DISTRIBUTION_CENTER"
             },
-            "quantity": 188,
+            "quantity": 64.07,
             "restrictions": {
                 "salesDisabled": false
             },

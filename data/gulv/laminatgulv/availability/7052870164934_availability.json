@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 7,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -42,7 +42,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 21,
+            "quantity": 9,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -76,7 +76,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 4,
+            "quantity": 1,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -93,7 +93,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 79,
+            "quantity": 33,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -110,7 +110,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 5,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -127,7 +127,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 11,
+            "quantity": 4,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -161,7 +161,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 7,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -178,7 +178,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 70,
+            "quantity": 30,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -195,7 +195,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 14,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -212,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 29,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -229,7 +229,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 67,
+            "quantity": 28,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -246,7 +246,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 6,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -263,7 +263,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 26,
+            "quantity": 11,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -280,7 +280,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 62,
+            "quantity": 26,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -300,7 +300,7 @@
                 "id": "7080001198909",
                 "type": "DISTRIBUTION_CENTER"
             },
-            "quantity": 79,
+            "quantity": 33.15,
             "restrictions": {
                 "salesDisabled": false
             },

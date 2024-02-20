@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 54,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -25,7 +25,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 47,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -76,7 +76,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 54,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

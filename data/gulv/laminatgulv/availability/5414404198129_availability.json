@@ -3,7 +3,7 @@
     "storeAvailabilities": [
         {
             "availability": {
-                "status": "UNAVAILABLE"
+                "status": "AVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false

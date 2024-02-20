@@ -15,8 +15,10 @@ class ScrapeData():
     def run(self):
         # initializing ids scraper object for specific category/subcategory
         scrap_ids = ScrapingIds(self.category_l1, self.category_l2)
-        logger.info(f"Scraping routine for {self.__category_l1}/{self.__category_l2} started.")
-        print(f"Scraping routine for {self.__category_l1}/{self.__category_l2} started.")
+        logger.info(
+            f"Scraping routine for {self.category_l1}/{self.category_l2} started.")
+        print(
+            f"Scraping routine for {self.category_l1}/{self.category_l2} started.")
 
         # getting number of pages to scrape
         pages = scrap_ids.get_pages()
@@ -32,23 +34,30 @@ class ScrapeData():
         product_ids = [product['id'] for product in products]
 
         # initializing description scraper object for specific category/subcategory
-        description_scraper = DescriptionEans(self.category_l1, self.category_l2)
-        
+        description_scraper = DescriptionEans(
+            self.category_l1, self.category_l2)
+
         # async code to scrape description for all ids (eans) on a specific category/subcategory
         loop = asyncio.get_event_loop()
-        loop.run_until_complete(description_scraper.scraping_description(product_ids))
+        loop.run_until_complete(
+            description_scraper.scraping_description(product_ids))
 
         # initializing availability scraper object for specific category/subcategory
-        availability_scraper = AvailabilityEans(self.category_l1, self.category_l2)
+        availability_scraper = AvailabilityEans(
+            self.category_l1, self.category_l2)
 
         # async code to scrape availability for all ids (eans) on a specific category/subcategory
         loop = asyncio.get_event_loop()
-        loop.run_until_complete(availability_scraper.scraping_availability(product_ids))
+        loop.run_until_complete(
+            availability_scraper.scraping_availability(product_ids))
 
         # initializing prices scraper object for specific category/subcategory
-        prices_scraper = PricesEans(self.category_l1, self.category_l2)  # Provide category names
+        prices_scraper = PricesEans(
+            self.category_l1, self.category_l2)  # Provide category names
         loop = asyncio.get_event_loop()
         loop.run_until_complete(prices_scraper.scraping_prices())
 
-        logger.info(f"Scraping routine for {self.__category_l1}/{self.__category_l2} finished.")
-        print(f"Scraping routine for {self.__category_l1}/{self.__category_l2} finished.")
+        logger.info(
+            f"Scraping routine for {self.category_l1}/{self.category_l2} finished.")
+        print(
+            f"Scraping routine for {self.category_l1}/{self.category_l2} finished.")

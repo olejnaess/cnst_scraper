@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 6,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -25,7 +25,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 10,
+            "quantity": 4,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -62,7 +62,7 @@
                 "id": "7080001198909",
                 "type": "DISTRIBUTION_CENTER"
             },
-            "quantity": 6,
+            "quantity": 2.58,
             "restrictions": {
                 "salesDisabled": false
             },

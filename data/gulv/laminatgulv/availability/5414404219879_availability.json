@@ -1,39 +1,6 @@
 {
     "ean": "5414404219879",
-    "storeAvailabilities": [
-        {
-            "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080001198909",
-                "name": "Gjøvik",
-                "eComActive": false
-            }
-        }
-    ],
-    "warehouseAvailabilities": [
-        {
-            "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "warehouse": {
-                "id": "7080001198909",
-                "type": "DISTRIBUTION_CENTER"
-            },
-            "quantity": 0,
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "future": []
-        }
-    ],
+    "storeAvailabilities": [],
+    "warehouseAvailabilities": [],
     "modules": []
 }

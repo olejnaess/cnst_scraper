@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 14,
+            "quantity": 7,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -20,29 +20,12 @@
         },
         {
             "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080000917075",
-                "name": "Steinkjer",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
                 "status": "AVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 4,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

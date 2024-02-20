@@ -3,46 +3,12 @@
     "storeAvailabilities": [
         {
             "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080001087326",
-                "name": "Bodø",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080001181192",
-                "name": "Fauske",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
                 "status": "AVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 31,
+            "quantity": 10,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -76,7 +42,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 24,
+            "quantity": 8,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -93,7 +59,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 58,
+            "quantity": 20,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -144,7 +110,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 20,
+            "quantity": 7,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -178,30 +144,13 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 90,
+            "quantity": 30,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
             "store": {
                 "id": "7080000917075",
                 "name": "Steinkjer",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080000448135",
-                "name": "Svolvær",
                 "eComActive": false
             }
         },

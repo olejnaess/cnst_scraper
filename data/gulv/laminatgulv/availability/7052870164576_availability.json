@@ -25,7 +25,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 2,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -59,7 +59,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 33,
+            "quantity": 14,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -93,7 +93,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 6,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -110,7 +110,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 23,
+            "quantity": 9,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -127,7 +127,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 47,
+            "quantity": 20,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -161,7 +161,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 59,
+            "quantity": 25,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -178,7 +178,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 18,
+            "quantity": 7,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -195,7 +195,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 41,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -212,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 22,
+            "quantity": 9,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

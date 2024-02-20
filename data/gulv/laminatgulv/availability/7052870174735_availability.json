@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 15,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -59,7 +59,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 6,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -76,7 +76,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 13,
+            "quantity": 5,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -93,7 +93,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 46,
+            "quantity": 21,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -127,7 +127,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 32,
+            "quantity": 14,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -144,7 +144,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 5,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -161,7 +161,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 27,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -212,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 18,
+            "quantity": 8,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -229,7 +229,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 1,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -246,7 +246,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 60,
+            "quantity": 27,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -275,29 +275,12 @@
         },
         {
             "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080000448593",
-                "name": "Mo i Rana",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
                 "status": "AVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 22,
+            "quantity": 10,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -314,7 +297,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 43,
+            "quantity": 19,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -331,7 +314,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 8,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -348,7 +331,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 29,
+            "quantity": 13,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -365,7 +348,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 39,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -382,7 +365,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 34,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -399,7 +382,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 7,
+            "quantity": 3,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -416,7 +399,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 2,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -433,7 +416,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 19,
+            "quantity": 8,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -450,7 +433,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 33,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -467,7 +450,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 2,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -479,12 +462,12 @@
         },
         {
             "availability": {
-                "status": "AVAILABLE"
+                "status": "UNAVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 13,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -501,7 +484,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 14,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -518,7 +501,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 38,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -552,7 +535,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 56,
+            "quantity": 25,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -569,7 +552,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 59,
+            "quantity": 26,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -586,7 +569,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 6,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -606,7 +589,7 @@
                 "id": "7080001198909",
                 "type": "DISTRIBUTION_CENTER"
             },
-            "quantity": 32,
+            "quantity": 14.61,
             "restrictions": {
                 "salesDisabled": false
             },

@@ -76,7 +76,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 18,
+            "quantity": 9,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -127,7 +127,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 31,
+            "quantity": 16,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -144,30 +144,13 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 45,
+            "quantity": 24,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
             "store": {
                 "id": "7080000571321",
                 "name": "Kongsberg",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080001186463",
-                "name": "Kragerø",
                 "eComActive": false
             }
         },
@@ -212,7 +195,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 9,
+            "quantity": 4,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -229,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 23,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -246,7 +229,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 26,
+            "quantity": 13,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -263,7 +246,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 35,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -280,7 +263,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 143,
+            "quantity": 75,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -314,7 +297,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 43,
+            "quantity": 23,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -348,7 +331,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 26,
+            "quantity": 14,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -433,7 +416,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 71,
+            "quantity": 37,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

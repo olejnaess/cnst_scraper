@@ -1,1 +1,46 @@
-[{"ean": "6438313559184", "type": "store", "basePrice": 0, "salesUnitLocalized": "Pakke", "unitAmount": 0.331785, "campaignPrice": null, "scales": [], "comparisonPrice": 249, "comparisonPriceUnit": "M2", "comparisonPriceUnitLocalized": "m2", "displayCodePCU": 2, "priceValidUntil": "9999-12-31T00:00:00.000Z", "qualifier": "REGULAR", "price": 749, "basePriceUnit": "", "basePriceUnitLocalized": "", "salesUnit": "PAK", "vatPercentage": 25, "campaignId": "", "storeId": "7080003898241"}, {"ean": "6438313559184", "type": "store", "basePrice": 0, "salesUnitLocalized": "Pakke", "unitAmount": 0.331785, "campaignPrice": null, "scales": [], "comparisonPrice": 249, "comparisonPriceUnit": "M2", "comparisonPriceUnitLocalized": "m2", "displayCodePCU": 2, "priceValidUntil": "9999-12-31T00:00:00.000Z", "qualifier": "REGULAR", "price": 750.5, "basePriceUnit": "", "basePriceUnitLocalized": "", "salesUnit": "PAK", "vatPercentage": 25, "campaignId": "", "storeId": "7080003904591"}]
+[
+  {
+    "ean": "6438313559184",
+    "type": "store",
+    "basePrice": 0,
+    "salesUnitLocalized": "Pakke",
+    "unitAmount": 0.331785,
+    "campaignPrice": null,
+    "scales": [],
+    "comparisonPrice": 249,
+    "comparisonPriceUnit": "M2",
+    "comparisonPriceUnitLocalized": "m2",
+    "displayCodePCU": 2,
+    "priceValidUntil": "9999-12-31T00:00:00.000Z",
+    "qualifier": "REGULAR",
+    "price": 749,
+    "basePriceUnit": "",
+    "basePriceUnitLocalized": "",
+    "salesUnit": "PAK",
+    "vatPercentage": 25,
+    "campaignId": "",
+    "storeId": "7080003898241"
+  },
+  {
+    "ean": "6438313559184",
+    "type": "store",
+    "basePrice": 0,
+    "salesUnitLocalized": "Pakke",
+    "unitAmount": 0.331785,
+    "campaignPrice": null,
+    "scales": [],
+    "comparisonPrice": 249,
+    "comparisonPriceUnit": "M2",
+    "comparisonPriceUnitLocalized": "m2",
+    "displayCodePCU": 2,
+    "priceValidUntil": "9999-12-31T00:00:00.000Z",
+    "qualifier": "REGULAR",
+    "price": 750.5,
+    "basePriceUnit": "",
+    "basePriceUnitLocalized": "",
+    "salesUnit": "PAK",
+    "vatPercentage": 25,
+    "campaignId": "",
+    "storeId": "7080003904591"
+  }
+]

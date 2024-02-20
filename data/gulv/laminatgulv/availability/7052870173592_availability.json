@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 26,
+            "quantity": 11,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -25,7 +25,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 30,
+            "quantity": 13,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -42,7 +42,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 36,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -59,7 +59,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 2,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -71,29 +71,12 @@
         },
         {
             "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080001132620",
-                "name": "Skien",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
                 "status": "AVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 14,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -110,7 +93,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 61,
+            "quantity": 27,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

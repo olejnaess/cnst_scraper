@@ -1,0 +1,43 @@
+{
+  "created": "2024-02-16T07:58:00Z",
+  "updated": "2024-02-16T07:58:00Z",
+  "base_name": "Isolasjonsstrømpe 50mm 3m ø100 Flexit",
+  "base_category": "Planker",
+  "base_unit": "m",
+  "base_images": [
+    {
+      "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_25039843"
+    },
+    {
+      "url": "https://public.keskofiles.com/f/btt/ASSET_MISC_23102150"
+    }
+  ],
+  "gtin_codes": [7023670085156],
+  "nobb_codes": [26381319],
+  "ean_codes": [7023670085156, 7023670085157, 7023670085158],
+  "variants": [
+    {
+      "retailer": "Gausdal Landhandleri",
+      "brand": "Flexit",
+      "url_product": "https://www.gaus.no/product-link",
+      "retail_unit": "m",
+      "gtin_codes": [7023670085156],
+      "ean_codes": [7023670085156],
+      "nobb_codes": 26381319,
+      "related_eans": [7023670085156],
+      "categories": ["Planker"],
+      "stores": [
+        {
+          "store_name": "Gausdal",
+          "price": 789.0,
+          "scraped_at": "2024-02-16T07:58:00Z"
+        },
+        {
+          "store_name": "Nittedal",
+          "price": 789.0,
+          "scraped_at": "2024-02-16T07:58:00Z"
+        }
+      ]
+    }
+  ]
+}

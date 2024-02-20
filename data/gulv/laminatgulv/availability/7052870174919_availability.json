@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 3,
+            "quantity": 1,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -42,7 +42,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 7,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -59,7 +59,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 13,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -71,29 +71,12 @@
         },
         {
             "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
-                "id": "7080001240097",
-                "name": "Drammen",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
                 "status": "AVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 49,
+            "quantity": 25,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -127,7 +110,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 46,
+            "quantity": 24,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -161,7 +144,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 38,
+            "quantity": 19,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -178,7 +161,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 34,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -195,7 +178,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 36,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -212,7 +195,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 58,
+            "quantity": 30,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -229,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 57,
+            "quantity": 29,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -246,7 +229,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 49,
+            "quantity": 25,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -280,7 +263,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 35,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -297,7 +280,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 33,
+            "quantity": 17,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -331,7 +314,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 36,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -348,7 +331,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 43,
+            "quantity": 22,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -365,7 +348,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 44,
+            "quantity": 23,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -382,7 +365,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 58,
+            "quantity": 30,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -399,7 +382,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 125,
+            "quantity": 65,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -416,7 +399,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 40,
+            "quantity": 16,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -450,7 +433,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 13,
+            "quantity": 6,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -467,7 +450,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 41,
+            "quantity": 21,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -484,7 +467,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 35,
+            "quantity": 18,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

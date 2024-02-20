@@ -93,7 +93,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 10,
+            "quantity": 5,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],

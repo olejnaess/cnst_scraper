@@ -8,7 +8,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 60,
+            "quantity": 31,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -93,7 +93,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 3,
+            "quantity": 2,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -144,7 +144,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 27,
+            "quantity": 14,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -173,7 +173,7 @@
         },
         {
             "availability": {
-                "status": "UNAVAILABLE"
+                "status": "AVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
@@ -212,7 +212,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 44,
+            "quantity": 23,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -246,7 +246,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 26,
+            "quantity": 14,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -263,7 +263,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 40,
+            "quantity": 21,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -314,7 +314,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 50,
+            "quantity": 26,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -331,7 +331,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 28,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -348,7 +348,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 22,
+            "quantity": 12,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -365,7 +365,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 29,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -382,7 +382,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 44,
+            "quantity": 23,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -399,7 +399,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 73,
+            "quantity": 38,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -428,12 +428,12 @@
         },
         {
             "availability": {
-                "status": "AVAILABLE"
+                "status": "UNAVAILABLE"
             },
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 20,
+            "quantity": 0,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -467,7 +467,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 55,
+            "quantity": 29,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -484,7 +484,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 29,
+            "quantity": 15,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -535,7 +535,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 26,
+            "quantity": 14,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -555,7 +555,7 @@
                 "id": "7080001198909",
                 "type": "DISTRIBUTION_CENTER"
             },
-            "quantity": 27,
+            "quantity": 14.65,
             "restrictions": {
                 "salesDisabled": false
             },

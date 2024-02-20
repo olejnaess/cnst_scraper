@@ -115,23 +115,6 @@
             "shelfLocation": null,
             "future": [],
             "store": {
-                "id": "7080001132590",
-                "name": "Kristiansand",
-                "eComActive": false
-            }
-        },
-        {
-            "availability": {
-                "status": "UNAVAILABLE"
-            },
-            "restrictions": {
-                "salesDisabled": false
-            },
-            "quantity": 0,
-            "displayQuantity": 0,
-            "shelfLocation": null,
-            "future": [],
-            "store": {
                 "id": "7080000601707",
                 "name": "Langangen",
                 "eComActive": false
@@ -161,7 +144,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 47,
+            "quantity": 25,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
@@ -195,7 +178,7 @@
             "restrictions": {
                 "salesDisabled": false
             },
-            "quantity": 41,
+            "quantity": 21,
             "displayQuantity": 0,
             "shelfLocation": null,
             "future": [],
